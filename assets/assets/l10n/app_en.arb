@@ -112,6 +112,7 @@
   "deniedInfoText": "This status means that the doctor denied your reservation.",
   "deny": "Deny",
   "disclaimer": "Disclaimer",
+  "distanceFromCentre": "Distance From Centre",
   "djanet": "Djanet",
   "djelfa": "Djelfa",
   "doYouWantToCancel": "Do you want to cancel your appointment? if yes please specify the reason.",
