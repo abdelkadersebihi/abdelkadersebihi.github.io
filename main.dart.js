@@ -45469,7 +45469,7 @@ A.a_6.prototype={
 p(a){return A.kZ(a).e?B.ahw:B.agw}}
 A.a1F.prototype={
 p(a){var s=null
-return A.D(B.j,A.T("Efrilidz.com/dashboard - Last update: 17-11-2024 | 8:15PM",s,s,s,t.R.a(A.v(a).c.h(0,A.Q(t.P))).z.cd(10),s,s,s),B.e,s,s,s,s,50,s,s,s,s,1/0)}}
+return A.D(B.j,A.T("Efrilidz.com/dashboard - Last update: 31-03-2025 | 1:15AM",s,s,s,t.R.a(A.v(a).c.h(0,A.Q(t.P))).z.cd(10),s,s,s),B.e,s,s,s,s,50,s,s,s,s,1/0)}}
 A.a37.prototype={
 p(a){var s=null,r=A.nL(!0,s,!0,!0,s,s,!1),q=t.R.a(A.v(a).c.h(0,A.Q(t.P))),p=A.aRc(0,A.D(B.hV,s,B.e,s,s,new A.Z(q.x,s,s,s,s,s,B.k),s,s,s,B.pK,s,s,s)),o=q.r,n=A.ae(18),m=t.p
 return A.kD(s,A.Pu(s,!1,A.oN(B.d_,A.a([p,A.eP(A.D(s,A.aY(A.a([B.Ip,B.HO,B.ID,B.fb,B.IH,B.fb,B.IB,A.bU(A.D(B.hU,B.IC,B.e,s,s,s,s,s,s,s,s,s,s),1)],m),B.F,B.br,B.r),B.e,s,s,new A.Z(o,s,s,n,s,s,B.k),s,600,B.aQ,B.lM,s,s,400),s,s),B.G6],m),B.P,B.dz),!0,r,B.bQ,s,s,s,s),B.V,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aHF(r),s,s,s,s,s,s)}}
@@ -49115,7 +49115,7 @@ A.aHc.prototype={
 $1(a){var s,r=$.ds().b
 r===$&&A.b()
 s=$.aD()
-return new A.pT(r,new A.bx(new A.cW("chafik@efrilidz.com",B.ej,B.bt),s),new A.bx(new A.cW("password1",B.ej,B.bt),s),s)},
+return new A.pT(r,new A.bx(new A.cW("",B.ej,B.bt),s),new A.bx(new A.cW("",B.ej,B.bt),s),s)},
 $S:535}
 A.aHd.prototype={
 $1(a){var s,r,q=$.ds().b
